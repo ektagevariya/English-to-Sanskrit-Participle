@@ -1,3 +1,3 @@
 # English-to-Sanskrit-Participle
 
-Participle-stem.csv file is merged from all of these 3 dictionary dataset.
+Participle-stem.csv  => adverb.csv + final.csv + participle-stems.csv
